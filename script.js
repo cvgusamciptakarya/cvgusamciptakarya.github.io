@@ -109,7 +109,7 @@ const sr = ScrollReveal({
     origin: 'top',
     distance: '30px',
     duration: 2000,
-    reset: true
+//     reset: true
 });
 sr.reveal(`.home__data, .home__img,
             .about__data, .about__img,
