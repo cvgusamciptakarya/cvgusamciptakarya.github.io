@@ -1,14 +1,115 @@
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://cvgusamciptakarya.github.io</loc>
-		<lastmod>2022-04-21T13:41:54+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.8</priority>
-	</url>
-	<url>
-		<loc>https://cvgusamciptakarya.github.io/index.html</loc>
-		<lastmod>2022-04-21T13:41:54+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.8</priority>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://cvgusamciptakarya.github.io</loc>
+    <lastmod>2023-04-25T16:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/logo-cv-gusam-cipta-karya-hitam.png</image:loc>
+      <image:caption>logo cv gusam cipta karya</image:caption>
+      <image:title>logo cv gusam cipta karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/logo-cv-gusam-cipta-karya-hijau.png.jpg</image:loc>
+      <image:caption>logo cv gusam cipta karya</image:caption>
+      <image:title>logo cv gusam cipta karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/img/konstruksi-baja.jpg</image:loc>
+      <image:caption>konstruksi baja CV. Gusam Cipta Karya</image:caption>
+      <image:title>konstruksi baja CV. Gusam Cipta Karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>profil CV. Gusam Cipta Karya</image:caption>
+      <image:title>profil CV. Gusam Cipta Karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-2.png</image:loc>
+      <image:caption>profil CV. Gusam Cipta Karya</image:caption>
+      <image:title>profil CV. Gusam Cipta Karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-3.png</image:loc>
+      <image:caption>profil CV. Gusam Cipta Karya</image:caption>
+      <image:title>profil CV. Gusam Cipta Karya</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/img/konstruksi-baja-berat.jpg</image:loc>
+      <image:caption>konstruksi-baja-berat</image:caption>
+      <image:title>konstruksi-baja-berat</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/kontraktor-baja-ringan.jpg</image:loc>
+      <image:caption>kontraktor baja ringan</image:caption>
+      <image:title>kontraktor baja ringan</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/acp-dan-grc.jpg</image:loc>
+      <image:caption>acp dan grc</image:caption>
+      <image:title>acp dan grc</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/konstruksi-rumahan.jpg</image:loc>
+      <image:caption>konstruksi rumahan</image:caption>
+      <image:title>konstruksi rumahan</image:title>
+    </image:image>
+	  
+	  
+<!-- 	  galeri -->
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pemborongtrenggalek.github.io/img/profil-1.png</image:loc>
+      <image:caption>xxx</image:caption>
+      <image:title>xxx</image:title>
+    </image:image>
+    
+
+  </url>
 </urlset>
