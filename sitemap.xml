@@ -99,11 +99,80 @@
 			<image:caption>proyek pembangunan taman bermain</image:caption>
 			<image:title>proyek pembangunan taman bermain</image:title>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://cvgusamciptakarya.github.io/index.html</loc>
-		<lastmod>2022-04-21T13:41:54+00:00</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.8</priority>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/alat-mesin-laser-cutting.jpg</image:loc>
+			<image:caption>Manifold gas dengan selang merah dan biru di meja kerja, dengan truk di latar belakang</image:caption>
+			<image:title>alat mesin laser cutting</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/beton-dan-baja-kandang-ayam-broiler.jpg</image:loc>
+			<image:caption>Struktur bangunan beton yang belum selesai di tengah padang rumput yang rimbun di bawah langit berawan</image:caption>
+			<image:title>beton dan baja kandang ayam broiler</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/pemasangan-rangka-besi-baja-di-perkotaan.jpg</image:loc>
+			<image:caption>Pekerja konstruksi pada balok baja rangka bangunan dengan latar langit biru</image:caption>
+			<image:title>pemasangan rangka besi baja di perkotaan</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/pengiriman-rangka-baja-berat.jpg</image:loc>
+			<image:caption>Pekerja konstruksi pada balok baja rangka bangunan dengan latar langit biru</image:caption>
+			<image:title>pengiriman rangka baja berat</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/perakitan-rangka-baja-berat.jpg</image:loc>
+			<image:caption>Lokasi konstruksi dengan rangka baja yang belum lengkap dan material bangunan yang berserakan</image:caption>
+			<image:title>perakitan rangka baja berat</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/pintu-besi-garasi-anti-karat.jpg</image:loc>
+			<image:caption>Pintu ganda kuning besar dengan desain panel dalam suasana industri</image:caption>
+			<image:title>pintu besi garasi anti karat</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proses-pemasangan-rangka-atap-baja.jpg</image:loc>
+			<image:caption>Pekerja di rangka logam dengan latar langit biru cerah</image:caption>
+			<image:title>proses pemasangan rangka atap baja</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proses-pengecoran-menara-masjid.jpg</image:loc>
+			<image:caption>Sebuah menara telekomunikasi yang dikelilingi perancah luas dengan latar langit kelabu</image:caption>
+			<image:title>proses pengecoran menara masjid</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proyek-pembangunan-menara-pagoda.jpg</image:loc>
+			<image:caption>Kuil bergaya pagoda bertingkat dengan fasad kuning dan hijau di bawah langit biru</image:caption>
+			<image:title>proyek pembangunan menara pagoda</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proyek-pembangunan-swalayan-perkotaan.jpg</image:loc>
+			<image:caption>Bangunan modern dengan fasad merah dan kuning serta detail arsitektur Asia dengan latar langit biru</image:caption>
+			<image:title>proyek pembangunan swalayan perkotaan</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proyek-pembuatan-cafe-keluarga.jpg</image:loc>
+			<image:caption>Gerbang masuk suatu bangunan Indonesia dengan elemen arsitektur tradisional dan spanduk penyambutan</image:caption>
+			<image:title>proyek pembuatan cafe keluarga</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proyek-pembuatan-masjid-klasik.jpg</image:loc>
+			<image:caption>Gerbang masuk suatu bangunan Indonesia dengan elemen arsitektur tradisional dan spanduk penyambutan</image:caption>
+			<image:title>proyek pembuatan masjid klasik</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/proyek-pembuatan-menara-masjid.jpg</image:loc>
+			<image:caption>Sebuah menara tinggi berwarna hijau dan putih dengan latar langit biru berawan</image:caption>
+			<image:title>proyek pembuatan menara masjid</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/rangka-baja-ringan-balkon-rumah.jpg</image:loc>
+			<image:caption>Rangka logam bangunan yang belum selesai dengan latar belakang langit dan pemandangan kota</image:caption>
+			<image:title>rangka baja ringan balkon rumah</image:title>
+		</image:image>
+		<image:images>
+			<image:loc>https://cvgusamciptakarya.github.io/img/rangka-besi-baja-di-pinggiran-kota.jpg</image:loc>
+			<image:caption>Lokasi konstruksi dengan rangka baja dan bendera di depan gedung tinggi</image:caption>
+			<image:title>rangka besi baja di pinggiran kota</image:title>
+		</image:image>
 	</url>
 </urlset>
