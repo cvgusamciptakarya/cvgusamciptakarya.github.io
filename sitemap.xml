@@ -5,12 +5,18 @@
 		<changefreq>daily</changefreq>
 		<priority>0.8</priority>
 		<image:image>
+			<image:loc>https://cvgusamciptakarya.github.io/img/poster-cv-gusam-cipta-karya.jpg</image:loc>
+			<image:caption>Poster Web CV. Gusam Cipta Karya</image:caption>
+			<image:title>Poster web CV. Gusam Cipta Karya</image:title>
+		</image:image>
+
+		<image:image>
 			<image:loc>https://cvgusamciptakarya.github.io/img/logo-cv-gusam-cipta-karya-hitam.png</image:loc>
 			<image:caption>logo cv gusam cipta karya</image:caption>
 			<image:title>logo cv gusam cipta karya</image:title>
 		</image:image>
 		<image:image>
-			<image:loc>https://cvgusamciptakarya.github.io/img/logo-cv-gusam-cipta-karya-hijau.png.jpg</image:loc>
+			<image:loc>https://cvgusamciptakarya.github.io/img/logo-cv-gusam-cipta-karya-hijau.png</image:loc>
 			<image:caption>logo cv gusam cipta karya</image:caption>
 			<image:title>logo cv gusam cipta karya</image:title>
 		</image:image>
