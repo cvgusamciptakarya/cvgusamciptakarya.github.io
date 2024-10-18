@@ -1,18 +1,3 @@
-/*==================== SHOW ALL ====================*/
-const forbiddenKeys = ['c', 'u', 's', 'p'];
-const forbiddenKeyCodes = [123, 73, 74];
-
-document.addEventListener("contextmenu", e => {
-    e.preventDefault();
-}, false);
-
-document.addEventListener("keydown", e => {
-    if (e.ctrlkey || forbiddenKeys.includes(e.key) || forbiddenKeyCodes.includes(e.keyCode)) {
-        e.stopPropagation();
-        e.preventDefault();
-    }
-});
-
 /*==================== SHOW MENU ====================*/
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
@@ -171,4 +156,20 @@ form.addEventListener('submit', function (e) {
         // alert(JSON.stringify(err));
         form.reset();
     });
+});
+
+
+/*==================== SHOW ALL ====================*/
+const forbiddenKeys = ['c', 'u', 's', 'p'];
+const forbiddenKeyCodes = [123, 73, 74];
+
+document.addEventListener("contextmenu", e => {
+    e.preventDefault();
+}, false);
+
+document.addEventListener("keydown", e => {
+    if (e.ctrlkey || forbiddenKeys.includes(e.key) || forbiddenKeyCodes.includes(e.keyCode)) {
+        e.stopPropagation();
+        e.preventDefault();
+    }
 });
